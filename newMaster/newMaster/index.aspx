@@ -11,22 +11,6 @@
 
 <asp:Content ID="Content4" ContentPlaceHolderID="ContentPlaceHolderMain" runat="server">
 
-    <%--   <My:myUserControl runat="server" ID="myUserControl1" UserName="John Doe" UserAge="45" UserCountry="Australia" />
-    <My:myUserControl runat="server" ID="myUserControl2" UserName="Svenne Banan" UserAge="73" UserCountry="Sweden" />--%>
-
-    <%--    <My:myUserControl runat="server" ID="myUserControl" />--%>
-    <asp:PlaceHolder runat="server" ID="phUserInfoBox" />
- 
-
-
-
-
-    <asp:Literal ID="litContactTable" runat="server"></asp:Literal>
-
-
-
-
-
 
 
     <script>
