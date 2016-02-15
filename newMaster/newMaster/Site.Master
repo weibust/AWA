@@ -1,0 +1,89 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="newMaster.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>hej</title>
+    <script src="scripts/jquery-1.9.1.js"></script>
+    <script src="scripts/bootstrap.js"></script>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="masterStyles.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table style="width: 100%">
+                <tr>
+                    <td colspan="3">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolderHeader" runat="server">
+                            <nav class="navbar navbar-inverse">
+                                <div class="container-fluid">
+                                    <div class="navbar-header">
+                                        <a class="navbar-brand" href="index.aspx">denIcketFungerandeKontaktlistan</a>
+                                    </div>
+                                    <ul class="nav navbar-nav">
+                                        <%--<li class="active"><a href="#">Home</a></li>--%>
+                                        <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Kontakter<span class="caret"></span></a>
+                                            <ul class="dropdown-menu">
+                                                <li><a href="#">Visa</a></li>
+                                                <li><a href="#">Ändra</a></li>
+                                                <li><a href="#" data-toggle="modal" data-target="#myModalAddContact">Skapa ny</a></li>
+                                                <%--<li><a href="AddContact.aspx">Lägg till</a></li>--%>
+                                                <li><a href="#">Ta bort</a></li>
+                                                
+                                            </ul>
+                                        </li>
+                                        <li><a href="#">Meny</a></li>
+                                        <li><a href="#">Val</a></li>
+                                    </ul>
+                                    <ul class="nav navbar-nav navbar-right">
+                                        <li><a href="#"><span class="glyphicon glyphicon-user"></span>Sign Up</a></li>
+                                        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span>Login</a></li>
+                                    </ul>
+
+                                </div>
+                            </nav>
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+
+
+
+
+                <tr>
+                    <td class="pwLeft" style="width: 17%">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolderLeft" runat="server">
+                            Left
+                        </asp:ContentPlaceHolder>
+                    </td>
+
+
+                    <td class="pwMain" style="width: 70%">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolderMain" runat="server">
+                            Main
+                        </asp:ContentPlaceHolder>
+                    </td>
+
+                    <td class="pwRight" style="width: 13%">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolderRight" runat="server">
+                            Right
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="3" class="pwFooter">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolderFooter" runat="server">
+                            Footer<br />
+                            på två rader.....
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+
+            </table>
+        </div>
+
+    </form>
+</body>
+</html>
