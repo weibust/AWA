@@ -1,0 +1,18 @@
+C:\Users\Administrator\OneDrive\Academic Work Academy - VT 16 C# .NET\Patrik Weibust\dag1\ovning 9\ovning 9\bin\Debug\ovning 9.exe.config
+C:\Users\Administrator\OneDrive\Academic Work Academy - VT 16 C# .NET\Patrik Weibust\dag1\ovning 9\ovning 9\bin\Debug\ovning 9.exe
+C:\Users\Administrator\OneDrive\Academic Work Academy - VT 16 C# .NET\Patrik Weibust\dag1\ovning 9\ovning 9\bin\Debug\ovning 9.pdb
+C:\Users\Administrator\OneDrive\Academic Work Academy - VT 16 C# .NET\Patrik Weibust\dag1\ovning 9\ovning 9\obj\Debug\ovning 9.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\OneDrive\Academic Work Academy - VT 16 C# .NET\Patrik Weibust\dag1\ovning 9\ovning 9\obj\Debug\ovning 9.exe
+C:\Users\Administrator\OneDrive\Academic Work Academy - VT 16 C# .NET\Patrik Weibust\dag1\ovning 9\ovning 9\obj\Debug\ovning 9.pdb
+C:\Users\Administrator\OneDrive\Academic Work Academy - VT 16 C# .NET\Patrik Weibust\Vecka 1\Övning 9\ovning 9\bin\Debug\ovning 9.exe.config
+C:\Users\Administrator\OneDrive\Academic Work Academy - VT 16 C# .NET\Patrik Weibust\Vecka 1\Övning 9\ovning 9\obj\Debug\ovning 9.exe
+C:\Users\Administrator\OneDrive\Academic Work Academy - VT 16 C# .NET\Patrik Weibust\Vecka 1\Övning 9\ovning 9\obj\Debug\ovning 9.pdb
+C:\Users\Administrator\OneDrive\Academic Work Academy - VT 16 C# .NET\Patrik Weibust\Vecka 1\Övning 9\ovning 9\bin\Debug\ovning 9.exe
+C:\Users\Administrator\OneDrive\Academic Work Academy - VT 16 C# .NET\Patrik Weibust\Vecka 1\Övning 9\ovning 9\bin\Debug\ovning 9.pdb
+C:\Users\Administrator\OneDrive\Academic Work Academy - VT 16 C# .NET\Patrik Weibust\Vecka 1\Övning 9\ovning 9\obj\Debug\ovning 9.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\AWA\Skepp\ovning 9\bin\Debug\ovning 9.exe.config
+C:\Users\Administrator\Source\Repos\AWA\Skepp\ovning 9\obj\Debug\ovning 9.exe
+C:\Users\Administrator\Source\Repos\AWA\Skepp\ovning 9\obj\Debug\ovning 9.pdb
+C:\Users\Administrator\Source\Repos\AWA\Skepp\ovning 9\bin\Debug\ovning 9.exe
+C:\Users\Administrator\Source\Repos\AWA\Skepp\ovning 9\bin\Debug\ovning 9.pdb
+C:\Users\Administrator\Source\Repos\AWA\Skepp\ovning 9\obj\Debug\ovning 9.csprojResolveAssemblyReference.cache
