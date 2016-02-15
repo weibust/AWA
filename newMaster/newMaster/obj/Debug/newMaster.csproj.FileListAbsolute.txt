@@ -31,3 +31,36 @@ c:\users\administrator\documents\visual studio 2015\Projects\newMaster\newMaster
 c:\users\administrator\documents\visual studio 2015\Projects\newMaster\newMaster\obj\Debug\newMaster.csprojResolveAssemblyReference.cache
 c:\users\administrator\documents\visual studio 2015\Projects\newMaster\newMaster\obj\Debug\newMaster.dll
 c:\users\administrator\documents\visual studio 2015\Projects\newMaster\newMaster\obj\Debug\newMaster.pdb
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\ApplicationInsights.config
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\roslyn\csc.exe
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\roslyn\vbc.exe
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\newMaster.dll.config
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\newMaster.dll
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\newMaster.pdb
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\obj\Debug\newMaster.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\obj\Debug\newMaster.dll
+C:\Users\Administrator\Source\Repos\AWA\newMaster\newMaster\obj\Debug\newMaster.pdb
